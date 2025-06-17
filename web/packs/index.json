@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "LeviKram.json"
+  ],
+  "homeserver_url": "https://matrix.levithas.de"
+}
