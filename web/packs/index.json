@@ -1,7 +1,10 @@
 {
   "packs": [
     "LeviKram.json",
-    "Pikkuundco.json"
+    "Pikkuundco.json",
+    "Levithas.json",
+    "Sylux2.json",
+    "Sylux.json"
   ],
   "homeserver_url": "https://matrix.levithas.de"
 }

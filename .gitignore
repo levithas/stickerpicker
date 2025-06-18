@@ -9,6 +9,8 @@ __pycache__
 node_modules
 web/lib/import-map.json
 
+config.json
+
 *.session
 /*.json
 *.bak

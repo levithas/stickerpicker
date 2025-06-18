@@ -26,7 +26,7 @@ from telethon.tl.types.messages import AllStickers
 from telethon.tl.types import InputStickerSetShortName, Document, DocumentAttributeSticker
 from telethon.tl.types.messages import StickerSet as StickerSetFull
 
-from .lib import matrix, util
+from sticker.lib import matrix, util
 
 
 async def reupload_document(client: TelegramClient, document: Document) -> Tuple[matrix.StickerInfo, bytes]:
